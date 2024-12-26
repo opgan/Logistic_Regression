@@ -1,0 +1,57 @@
+2024-12-26 08:02:40,474 - INFO - Number of training examples: m_train = 209
+2024-12-26 08:02:40,474 - INFO - Number of testing examples: m_test = 50
+2024-12-26 08:02:40,474 - INFO - Height/Width of each image: num_px = 64
+2024-12-26 08:02:40,474 - INFO - Each image is of size: (64, 64)
+2024-12-26 08:02:40,474 - INFO - Original train_set_x shape: (209, 64, 64, 3)
+2024-12-26 08:02:40,474 - INFO - Original train_set_y shape: (209,)
+2024-12-26 08:02:40,474 - INFO - Original test_set_x shape: (50, 64, 64, 3)
+2024-12-26 08:02:40,474 - INFO - Original test_set_y shape: (50,)
+2024-12-26 08:02:40,474 - INFO - Flatten standardised train_set_x shape: (12288, 209)
+2024-12-26 08:02:40,474 - INFO - Flatten standardised test_set_x shape: (12288, 50)
+2024-12-26 08:02:40,475 - INFO - Row-wise train_set_y shape: (1, 209)
+2024-12-26 08:02:40,475 - INFO - Row-wise  test_set_y shape: (1, 50)
+2024-12-26 08:02:42,883 - INFO - Costs = [0.69 0.58 0.47 0.38 0.33 0.3  0.28 0.26 0.24 0.23 0.21 0.2  0.19 0.18
+ 0.17 0.17 0.16 0.15 0.15 0.14]
+2024-12-26 08:02:42,883 - INFO - Train_accuracy = 99.04
+2024-12-26 08:02:42,883 - INFO - Test_accuracy = 70.0
+2024-12-26 08:02:51,566 - INFO - Number of training examples: m_train = 209
+2024-12-26 08:02:51,567 - INFO - Number of testing examples: m_test = 50
+2024-12-26 08:02:51,567 - INFO - Height/Width of each image: num_px = 64
+2024-12-26 08:02:51,567 - INFO - Each image is of size: (64, 64)
+2024-12-26 08:02:51,567 - INFO - Original train_set_x shape: (209, 64, 64, 3)
+2024-12-26 08:02:51,567 - INFO - Original train_set_y shape: (209,)
+2024-12-26 08:02:51,567 - INFO - Original test_set_x shape: (50, 64, 64, 3)
+2024-12-26 08:02:51,568 - INFO - Original test_set_y shape: (50,)
+2024-12-26 08:02:51,568 - INFO - Flatten standardised train_set_x shape: (12288, 209)
+2024-12-26 08:02:51,568 - INFO - Flatten standardised test_set_x shape: (12288, 50)
+2024-12-26 08:02:51,568 - INFO - Row-wise train_set_y shape: (1, 209)
+2024-12-26 08:02:51,568 - INFO - Row-wise  test_set_y shape: (1, 50)
+2024-12-26 08:02:51,571 - INFO - Example 5 :: It is non-cat :: Predicted as cat
+2024-12-26 08:03:07,689 - INFO - Number of training examples: m_train = 209
+2024-12-26 08:03:07,689 - INFO - Number of testing examples: m_test = 50
+2024-12-26 08:03:07,689 - INFO - Height/Width of each image: num_px = 64
+2024-12-26 08:03:07,689 - INFO - Each image is of size: (64, 64)
+2024-12-26 08:03:07,689 - INFO - Original train_set_x shape: (209, 64, 64, 3)
+2024-12-26 08:03:07,689 - INFO - Original train_set_y shape: (209,)
+2024-12-26 08:03:07,689 - INFO - Original test_set_x shape: (50, 64, 64, 3)
+2024-12-26 08:03:07,689 - INFO - Original test_set_y shape: (50,)
+2024-12-26 08:03:07,689 - INFO - Flatten standardised train_set_x shape: (12288, 209)
+2024-12-26 08:03:07,689 - INFO - Flatten standardised test_set_x shape: (12288, 50)
+2024-12-26 08:03:07,689 - INFO - Row-wise train_set_y shape: (1, 209)
+2024-12-26 08:03:07,689 - INFO - Row-wise  test_set_y shape: (1, 50)
+2024-12-26 08:03:30,534 - INFO - Number of training examples: m_train = 209
+2024-12-26 08:03:30,534 - INFO - Number of testing examples: m_test = 50
+2024-12-26 08:03:30,535 - INFO - Height/Width of each image: num_px = 64
+2024-12-26 08:03:30,535 - INFO - Each image is of size: (64, 64)
+2024-12-26 08:03:30,535 - INFO - Original train_set_x shape: (209, 64, 64, 3)
+2024-12-26 08:03:30,535 - INFO - Original train_set_y shape: (209,)
+2024-12-26 08:03:30,535 - INFO - Original test_set_x shape: (50, 64, 64, 3)
+2024-12-26 08:03:30,535 - INFO - Original test_set_y shape: (50,)
+2024-12-26 08:03:30,535 - INFO - Flatten standardised train_set_x shape: (12288, 209)
+2024-12-26 08:03:30,535 - INFO - Flatten standardised test_set_x shape: (12288, 50)
+2024-12-26 08:03:30,535 - INFO - Row-wise train_set_y shape: (1, 209)
+2024-12-26 08:03:30,535 - INFO - Row-wise  test_set_y shape: (1, 50)
+2024-12-26 08:03:30,541 - INFO - imageori shape: (148, 182, 3)
+2024-12-26 08:03:30,542 - INFO - image.shape (64, 64, 3)
+2024-12-26 08:03:30,542 - INFO - image.shape (12288, 1)
+2024-12-26 08:03:30,543 - INFO - Unseen image is predicted as cat
