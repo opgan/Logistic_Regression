@@ -1,3 +1,5 @@
+[![Python Install/Lint with Github Actions](https://github.com/opgan/Logistic_Regression/actions/workflows/main.yml/badge.svg)](https://github.com/opgan/Logistic_Regression/actions/workflows/main.yml)
+
 # Logistic_Regression
 Python implementation of binary classification with linear regression
 
